@@ -35,12 +35,12 @@ Add a comment to your `README.md` like this:
 ```md
 <!--START_SECTION:waka-->
 
-```text
-Python             7 hrs 9 mins    █████████████████▒░░░░░░░   68.77 %
-HTML               1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-YAML               46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Docker             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Markdown           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+```txt
+Python             7 hrs 20 mins   █████████████████▒░░░░░░░   69.42 %
+HTML               1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+YAML               46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Docker             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
